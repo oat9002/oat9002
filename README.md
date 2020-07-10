@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋
+
+I am Oat, the software engineer who is interested in Full-Stack development.
+
+### More things..
+
+-   📈 GoldPriceTracking - Line notify gold price every hour! (Thai baht)
+    -   https://github.com/oat9002/GoldPriceTracking
+-   📘 My blog - https://oat9002.github.io/
 
 <!--
 **oat9002/oat9002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
