@@ -5,7 +5,8 @@ I am Oat, the software engineer who is interested in Full-Stack development.
 ### More things..
 
 -   📈 GoldPriceTracking - Line notify gold price every hour! (Thai baht)
-    -   https://github.com/oat9002/GoldPriceTracking
+    -   Github: https://github.com/oat9002/GoldPriceTracking
+    -   Website: https://goldpricetracking.web.app/
 -   📘 My blog - https://blog.oatto.dev
 -   💰 Expense-ledger (budget control) - https://expense-ledger-web.herokuapp.com/ 
 
