@@ -12,6 +12,9 @@ https://blog.oatto.dev
     -   Github: https://github.com/oat9002/GoldPriceTracking
     -   Website: https://goldpricetracking.web.app/
 -   💰 Expense-ledger (budget control) - https://expense-ledger-web.herokuapp.com/ 
+-   👛 CryptoNotiy(Satang pro) - https://github.com/oat9002/crypto-notify
+
+
 
 <!--
 **oat9002/oat9002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
