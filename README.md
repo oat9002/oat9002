@@ -14,7 +14,8 @@ https://blog.oatto.dev
 -   💰 Expense-ledger (budget control) - https://expense-ledger-web.herokuapp.com/ 
 -   👛 CryptoNotify(Satang pro) - https://github.com/oat9002/crypto-notify
 
-
+### Stats
+![oat9002's Github Stats](https://github-readme-stats.vercel.app/api?username=oat9002&show_icons=true)
 
 <!--
 **oat9002/oat9002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
