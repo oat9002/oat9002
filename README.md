@@ -12,7 +12,8 @@ https://blog.oatto.dev
     -   Github: https://github.com/oat9002/GoldPriceTracking
     -   Website: https://goldpricetracking.web.app/
 -   💰 Expense-ledger (budget control) - https://expense-ledger-web.herokuapp.com/ 
--   👛 CryptoNotify(Satang pro) - https://github.com/oat9002/crypto-notify
+-   👛 CryptoNotify(Satang pro, bsc) - https://github.com/oat9002/crypto-notify
+-   💲 Auto-compound (Pancakeswap) - https://github.com/oat9002/auto-compound
 
 ### Stats
 ![oat9002's Github Stats](https://github-readme-stats.vercel.app/api?username=oat9002&show_icons=true)
