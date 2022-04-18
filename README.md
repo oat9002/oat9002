@@ -11,7 +11,7 @@ https://blog.oatto.dev
 -   📈 GoldPriceTracking - Line notify gold price every hour! (Thai baht)
     -   Github: https://github.com/oat9002/GoldPriceTracking
     -   Website: https://goldpricetracking.web.app/
--   💰 Expense-ledger (budget control) - https://expense-ledger-web.herokuapp.com/ 
+-   💰 Expense-ledger (budget control) - https://expenseledger.vercel.app/
 -   👛 CryptoNotify(Satang pro, bsc) - https://github.com/oat9002/crypto-notify
 -   💲 Auto-compound (Pancakeswap) - https://github.com/oat9002/auto-compound
 
