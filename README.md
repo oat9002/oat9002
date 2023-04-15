@@ -18,6 +18,8 @@ https://blog.oatto.dev
 
 ### Stats
 ![oat9002's Github Stats](https://github-readme-stats.vercel.app/api?username=oat9002&show_icons=true)
+![oat900s's Top Programming Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oat9002)
+
 
 <!--
 **oat9002/oat9002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
